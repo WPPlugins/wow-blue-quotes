@@ -1,0 +1,22 @@
+.wowbq-bluequote {
+	font-size: 12px;
+	font-family: Verdana,sans-serif;
+	background-color: #202020;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: 2px 2px 2px black;
+    color: #0091FF;
+    margin: 10px auto;
+    padding: 10px;
+    width: 95%;
+}
+.wowbq-bluequote a {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+.wowbq-bluequote a:hover {
+	text-decoration: underline;
+}
+.wowbq-clear {
+	clear: both;
+}
